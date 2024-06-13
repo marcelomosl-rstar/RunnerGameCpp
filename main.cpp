@@ -85,8 +85,6 @@ int main()
 
     int enemyXVelocity{-600};
 
-    // teste
-
     bool isOnTheGround{true};
 
     float backgroundX{};
